@@ -1,0 +1,7 @@
+C:\Users\Caoimhe\Documents\gold supervisory\gold supervisory\bin\Debug\gold supervisory.exe.config
+C:\Users\Caoimhe\Documents\2E10\gold supervisory\gold supervisory\bin\Debug\gold supervisory.exe.config
+C:\Users\Caoimhe\Documents\2E10\gold supervisory\gold supervisory\bin\Debug\gold supervisory.exe
+C:\Users\Caoimhe\Documents\2E10\gold supervisory\gold supervisory\bin\Debug\gold supervisory.pdb
+C:\Users\Caoimhe\Documents\2E10\gold supervisory\gold supervisory\obj\Debug\gold supervisory.csprojResolveAssemblyReference.cache
+C:\Users\Caoimhe\Documents\2E10\gold supervisory\gold supervisory\obj\Debug\gold supervisory.exe
+C:\Users\Caoimhe\Documents\2E10\gold supervisory\gold supervisory\obj\Debug\gold supervisory.pdb
